@@ -1,3 +1,4 @@
+# Visual Studio Code (VSC) Editor Workshop
 
   
   
@@ -8,6 +9,4 @@
 
 </p>
 
-# Visual Studio Code (VSC) Editor Workshop
 
-Visual Studio Code workshop (Dec 2018)
