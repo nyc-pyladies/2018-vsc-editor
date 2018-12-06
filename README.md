@@ -29,11 +29,6 @@
   - Python  
   - Shell Command
 
-## Repo that we will work with
-- Navigating a small Django app with VSC:  https://github.com/antoniablair/my-first-blog
-  - use `git clone` or `Download manually` (GH account *not required* to download the repo)
-- To learn more about Django, you can build this blog with [Django Girls tutorial](https://tutorial.djangogirls.org/en/)
-
 ### Important keyboard shortcuts
 - [2_1_vsc_shortcuts](2_1_vsc_editor_shortcuts.md)
 - [2_2_editor_shortcuts](2_2_editor_shortcuts.md)
@@ -41,6 +36,8 @@
 ## Navigating the codebase
 Let's practice using some VSC shortcuts and features!
 - Practice navigating a simple [Django blog](4_1_navigation_walkthrough.md)
+  - use `git clone` or `Download manually` (GH account *not required* to download the repo)
+- To learn more about Django, you can build this blog at home with: [Django Girls tutorial](https://tutorial.djangogirls.org/en/)
 
 ## Linting and Formatting
 - Install extensions for a linter (code style guide)
