@@ -51,7 +51,7 @@ Let's practice using some VSC shortcuts and features!
 
 ## Linting and Formatting
 - Install extensions for a linter (code style guide)
-  - PEP8 Linting, PEP8 automatic extension
+  - PEP8 linting, autopep8 extension
 - Try a [short linting exercise](5_1_linting_exercise.md)
 - If you install autopep8, you can then type “format document” in the Command Palette to run the linter on your file.
 
