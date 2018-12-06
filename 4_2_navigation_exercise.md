@@ -1,3 +1,4 @@
+# Exercise:  navigating the codebase
 
 Practice using Visual Studio Code by navigating a simple Django blog. Download or git clone the [following repo](https://github.com/antoniablair/my-first-blog), and then open it in Visual Studio Code. 
 
