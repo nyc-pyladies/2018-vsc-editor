@@ -65,9 +65,9 @@ Let's practice using some VSC shortcuts and features!
 - Can search for "github pull request", click on `install` and then `reload` to activate it
 
 ## Terminal and Debugging with VSC
-- Watch 4:06 - 9:31 of [Nina Zakharenko's helpful video](https://www.youtube.com/watch?v=xQj3s3wIYDY), which explains how the terminal and debug features work
+- Watch 4:06 - 9:31 of [Nina Zakharenko's helpful video](https://youtu.be/xQj3s3wIYDY?t=246), which explains how the terminal and debug features work
 
-<img src="/images/vsc_pyladies_video.png" width="50%" />
+<img src="/images/vsc_pyladies_video.png" width="30%" />
 
 ## Further Exploration (on your own)
 - Working with virtual environment in VSC
