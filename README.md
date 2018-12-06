@@ -66,7 +66,7 @@ Let's practice using some VSC shortcuts and features!
 - Can click on last icon on left sidebar for `Extensions`
 - Can search for "github pull request", click on `install` and then `reload` to activate it
 
-## Terminal and Debugging with VSC  (Antonia)
+## Terminal and Debugging with VSC
 - Watch 4:47 - 9:31 of [Nina Zakharenko's helpful video](https://www.youtube.com/watch?v=xQj3s3wIYDY), which explains how the terminal and debug features work
 
 ## Further Exploration (on your own)
