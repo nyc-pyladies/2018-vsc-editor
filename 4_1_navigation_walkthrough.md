@@ -1,7 +1,5 @@
 Practice using Visual Studio Code by navigating the codebase of a [simple blog](https://github.com/antoniablair/my-first-blog). Download or git clone the repo, and then open it in Visual Studio Code.
 
-View the [windows version of this walkthrough](4_1b_windows_navigation_walkthrough.md). 
-
 ### Searching for a file
 Let's view the urls that this website's blog is using by searching the codebase for `urls.py` with <kbd>⌘ P</kbd> (command + P), or on windows, with <kbd> ctrl F </kbd>. Type `urls.py` and choose the urls in the blog. 
 
