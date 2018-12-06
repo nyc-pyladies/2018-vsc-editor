@@ -20,7 +20,7 @@
 - Code of Conduct
 - Tweet about event:  [@NYCPyLadies](https://twitter.com/NYCPyLadies) and also [@Dropbox](https://twitter.com/Dropbox)
 - Thank you to Dropbox for hosting!
-- Dan talks about Dropbox
+- [Dan Crosta](https://www.linkedin.com/in/dcrosta/) talks about Dropbox
 
 ## Workshop Introduction
 - Use the spreadsheet to let us know when you are finished with installs / exercises:  https://docs.google.com/document/d/16tg-OMYO6NOFSFH7RH1KqNz2aS40mGDzOPA_yfBtsas/edit?usp=sharing
