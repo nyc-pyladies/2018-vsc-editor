@@ -40,12 +40,12 @@
 
 ## Navigating the codebase
 Let's practice using some VSC shortcuts and features!
-- Practice navigating a simple [Django blog](navigation.md)
+- Practice navigating a simple [Django blog](4_1_navigation_walkthrough.md)
 
 ## Linting and Formatting
 - Install extensions for a linter (code style guide)
   - PEP8 Linting, PEP8 automatic extension
-- Try a [short linting exercise](https://github.com/reshamas/editor-workshop/blob/master/linting_exercise.md)
+- Try a [short linting exercise](5_1_linting_exercise.md)
 - If you install autopep8, you can then type “format document” in the Command Palette to run the linter on your file.
 
 ## Git Integration
