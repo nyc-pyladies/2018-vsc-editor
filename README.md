@@ -1,7 +1,5 @@
 # Visual Studio Code (VSC) Editor Workshop
-
-  
-  
+ 
 <p float="left">
  <img src="images/pyladies.png"  width="15%" height="15%" /> 
   <img src="images/pyladies.jpeg" width="15%" height="15%" />
@@ -42,17 +40,20 @@
   - Python  
   - Shell Command
 
+## Working with a specific repository
+Let's practice using some VSC shortcuts and features!
+- We'll work with this small [Django blog](https://github.com/antoniablair/my-first-blog)
+  - use `git clone` or `Download manually` (GH account *not required* to download the repo)
+
+## Navigating the codebase
+- How to [navigate this codebase](4_1_navigation_walkthrough.md)
+- See if you can complete the [following exercise](4_2_navigation_exercise.md)
+- To learn more about Django, you can build this blog at home with: [Django Girls tutorial](https://tutorial.djangogirls.org/en/)
+
 ## Important keyboard shortcuts
 - [2_1_vsc_shortcuts](2_1_vsc_editor_shortcuts.md)
 - [2_2_editor_shortcuts](2_2_editor_shortcuts.md)
 
-## Navigating the codebase
-Let's practice using some VSC shortcuts and features!
-- We'll work with this small [Django blog](https://github.com/antoniablair/my-first-blog)
-  - use `git clone` or `Download manually` (GH account *not required* to download the repo)
-- How to [navigate this codebase](4_1_navigation_walkthrough.md)
-- See if you can complete the [following exercise](4_2_navigation_exercise.md)
-- To learn more about Django, you can build this blog at home with: [Django Girls tutorial](https://tutorial.djangogirls.org/en/)
 
 ## Linting and Formatting
 - Install extensions for a linter (code style guide)
