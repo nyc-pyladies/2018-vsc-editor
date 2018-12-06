@@ -46,6 +46,7 @@ Let's practice using some VSC shortcuts and features!
 - We'll work with this small [Django blog](https://github.com/antoniablair/my-first-blog)
   - use `git clone` or `Download manually` (GH account *not required* to download the repo)
 - How to [navigate this codebase](4_1_navigation_walkthrough.md)
+- See if you can complete the [following exercise](4_2_navigation_exercise.md)
 - To learn more about Django, you can build this blog at home with: [Django Girls tutorial](https://tutorial.djangogirls.org/en/)
 
 ## Linting and Formatting
