@@ -10,7 +10,7 @@
 
 # Tutorial:  Intro to Visual Studio Code (VSC) Editor
 
-## Presenters
+## Presenters (your NYC PyLadies organizers)
 - [Reshama Shaikh](https://reshamas.github.io)   | [@reshamas](https://twitter.com/reshamas) on Twitter
 - [Antonia Blair](https://www.linkedin.com/in/antonia-blair/)  | [@AntoniaBlairArt](https://twitter.com/AntoniaBlairArt) on Twitter
 
