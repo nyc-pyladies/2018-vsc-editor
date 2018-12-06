@@ -23,10 +23,9 @@
 - [Dan Crosta](https://www.linkedin.com/in/dcrosta/) talks about Dropbox
 
 ## Workshop Introduction
-- Use the spreadsheet to let us know when you are finished with installs / exercises:  https://docs.google.com/document/d/16tg-OMYO6NOFSFH7RH1KqNz2aS40mGDzOPA_yfBtsas/edit?usp=sharing
 - Attendee intros
-  - what coding languages do people use?
-
+  - what coding languages do people use?  Answer [poll here](https://goo.gl/forms/Cgl6INnleVoe15Li1)
+- Use the spreadsheet to let us know when you are finished with installs / exercises:  https://docs.google.com/document/d/16tg-OMYO6NOFSFH7RH1KqNz2aS40mGDzOPA_yfBtsas/edit?usp=sharing
 
 ## Intro & Installing VSC 
 - [0_intro_install](0_intro_install.md)
