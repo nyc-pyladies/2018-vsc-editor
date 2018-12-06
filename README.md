@@ -67,6 +67,8 @@ Let's practice using some VSC shortcuts and features!
 ## Terminal and Debugging with VSC
 - Watch 4:06 - 9:31 of [Nina Zakharenko's helpful video](https://www.youtube.com/watch?v=xQj3s3wIYDY), which explains how the terminal and debug features work
 
+<img src="/images/vsc_pyladies_video.png" width="50%" />
+
 ## Further Exploration (on your own)
 - Working with virtual environment in VSC
 - Git integration
