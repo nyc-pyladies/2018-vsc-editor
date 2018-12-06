@@ -71,7 +71,14 @@ Let's practice using some VSC shortcuts and features!
 <img src="images/1_git.png" align="center" width="80%" height="80%"  >   
 </br>
 
-### More git (explore on your own)
+---
+## Explore on your own
+- watch these 2 videos:
+  - [PyLadies NYC - Getting Started with VS Code for Python](https://www.youtube.com/watch?v=xQj3s3wIYDY) by Nina Zakharenko @Microsoft
+  - [Get Productive with Python in Visual Studio Code](https://www.youtube.com/watch?v=6YLMWU-5H9o) by Dan Taylor @Microsoft
+
+
+### More git 
 - You can access git options from the command palette:  <kdb> F1 </kbd>, type "stage"
 - Git plugins to explore:
   - git lens plugin
@@ -79,16 +86,11 @@ Let's practice using some VSC shortcuts and features!
 - Can click on last icon on left sidebar for `Extensions`
 - Can search for "github pull request", click on `install` and then `reload` to activate it
 
-## Terminal and Debugging with VSC
+### Terminal and Debugging with VSC
 - Watch 4:06 - 9:31 of [Nina Zakharenko's helpful video](https://youtu.be/xQj3s3wIYDY?t=246), which explains how the terminal and debug features work
 
 <a href="https://youtu.be/xQj3s3wIYDY?t=246" target="_blank"><img src="/images/vsc_pyladies_video.png" width="30%" /></a>
 
-## Further Exploration (on your own)
-- Working with virtual environment in VSC
-- Git integration
-- watch these 2 videos:
-  - [PyLadies NYC - Getting Started with VS Code for Python](https://www.youtube.com/watch?v=xQj3s3wIYDY) by Nina Zakharenko @Microsoft
-  - [Get Productive with Python in Visual Studio Code](https://www.youtube.com/watch?v=6YLMWU-5H9o) by Dan Taylor @Microsoft
+### Virtual Environments in VSC
 
 
