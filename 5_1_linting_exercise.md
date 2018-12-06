@@ -55,4 +55,4 @@ You can automatically fix some of the more simple pep8 errors, like extra whites
 
 Try it on linting_example_1.py and press save. You'll see the linting errors go from 66 to 16! 
 
-If you'd like to try linting another example piece of code with some pep8 errors, use this [pig latin maker](https://github.com/reshamas/editor-workshop/blob/master/linting_example_2.py). 
+If you'd like to try linting another example piece of code with some pep8 errors, use this [pig latin maker](5_3_linting_example_2.py). 

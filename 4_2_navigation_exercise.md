@@ -9,7 +9,7 @@ Practice using Visual Studio Code by navigating a simple Django blog. Download o
 - Find where you could change the app's `TIME_ZONE` variable
 - Create a new file in the `templates/blog` folder 
 
-[View the solutions](https://github.com/reshamas/editor-workshop/blob/master/navigation_exercises_solutions.md)
+[View the solutions](4_3_navigation_exercises_solutions.md)
 
 ## References
 
