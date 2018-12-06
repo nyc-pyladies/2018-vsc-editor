@@ -37,10 +37,7 @@ This gives us an idea of what the different icons represent.
 ### Install extension:  "Python"
 - on `Welcome` tab
 - `Customize` / `Tools and Languages` / 
-- These are the default installed languages 
-- To select any more, type `@sort:installs`
-- type "python"
-
+- type "python" and then install, reload
 
 ### Install extension:  "Shell Command" 
 In order to open Visual Studio Code directly from your Command Line by typing `code`, you need to install the Shell Command feature:  
