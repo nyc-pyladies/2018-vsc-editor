@@ -5,12 +5,12 @@ An easy way to prevent syntax errors and make your code more readable is to use 
 One of the most popular Python linters is called [pep8](https://www.python.org/dev/peps/pep-0008/#id10). It was also written by Guido van Rossum (the author of Python)!
 
 ### Install
-Open the Command Palette <kbd>⇧⌘P</kbd> and type "Python: Select Linter". Choose `pep8`.
+Open the Command Palette <kbd>⇧⌘P</kbd> (<kbd>Ctrl + Shift + P</kbd> in windows)and type "Python: Select Linter". Choose `pep8`.
 
 Now go to the extensions marketplace and type `autopep8`. Install the `Python-autopep8` library as well.
 
 ### 
-Verify which linter you are currently using by opening the Command Palette <kbd> ⇧⌘P </kbd> and typing "Python Select Linter".
+Verify which linter you are currently using by opening the Command Palette <kbd> ⇧⌘P </kbd> (<kbd>Ctrl + Shift + P</kbd> in windows) and typing "Python Select Linter".
 
 ### Run the linter
 Let's try out a linter on a code snippet. You can either git clone this repo and open up `linting_example_1.py`, or just create a new .py file and copy and paste the following code into it, and save. 
@@ -40,7 +40,7 @@ Only actual code should be reindented.
 ```
 <br />
 
-Go to the Command Palette with <kbd> ⇧⌘P </kbd> and type: "Python: Run Linting".
+Go to the Command Palette with <kbd> ⇧⌘P </kbd> (<kbd>Ctrl + Shift + P</kbd> in windows) and type: "Python: Run Linting".
 
 <img src="images/vsc_linting_run_linting.png" align="center" width="80%" > 
 
