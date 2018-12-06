@@ -59,7 +59,7 @@ Let's practice using some VSC shortcuts and features!
 </br>
 
 ### More git (explore on your own)
-- You can ccess git options from the command palette:  <kdb> F1 </kbd>, type "stage"
+- You can access git options from the command palette:  <kdb> F1 </kbd>, type "stage"
 - Git plugins to explore:
   - git lens plugin
   - integration with GitHub pull requests 
