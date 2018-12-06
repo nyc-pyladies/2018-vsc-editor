@@ -14,15 +14,19 @@
 - [Reshama Shaikh](https://reshamas.github.io)   | [@reshamas](https://twitter.com/reshamas) on Twitter
 - [Antonia Blair](https://www.linkedin.com/in/antonia-blair/)  | [@AntoniaBlairArt](https://twitter.com/AntoniaBlairArt) on Twitter
 
-## Introductions:  PyLadies & Dropbox
+## Logistics:  PyLadies & Dropbox
 - Introductions 
 - Bathroom, wifi
 - Code of Conduct
 - Tweet about event:  [@NYCPyLadies](https://twitter.com/NYCPyLadies) and also [@Dropbox](https://twitter.com/Dropbox)
 - Thank you to Dropbox for hosting!
+- Dan talks about Dropbox
+
+## Workshop Introduction
 - Use the spreadsheet to let us know when you are finished with installs / exercises:  https://docs.google.com/document/d/16tg-OMYO6NOFSFH7RH1KqNz2aS40mGDzOPA_yfBtsas/edit?usp=sharing
-- Attendee intros:  what coding languages do people use?
-- **Dan talks about Dropbox**
+- Attendee intros
+  - what coding languages do people use?
+
 
 ## Intro & Installing VSC 
 - [0_intro_install](0_intro_install.md)
