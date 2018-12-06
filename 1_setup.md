@@ -57,11 +57,6 @@ Or open a single file with:
 code myfile.py
 ```
 
-### Settings & Key Bindings (explore on your own)
-- on `Welcome` tab
-- will show how to get to to `Key Bindings` (2nd option on right)
-- Can install the settings and keyboard shortcuts of other editors (such as Vim, Sublim, Atom, Emacs, and others); we can search for various editors
-- attendees can install later.  best to not install now. 
 
 ### Color Theme
 - on `Welcome` tab
@@ -69,18 +64,25 @@ code myfile.py
 - can see list of installed themes and get a preview
 - can get more themes from [Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Downloads)
 
----
 
-##  Settings
+
+---
+## Explore on your own
+
+###  Settings
 There are a few ways to get to `Settings` for editor, extensions, workspace, and more:  
 1.  From menu:  `Code` / `Preferences` / `Settings` 
 2.  This shortcut:  <kbd> Command+, </kbd>
 3.  <kbd> `⇧⌘P` </kbd> and type "settings"
 
----
+### Settings & Key Bindings (explore on your own)
+- on `Welcome` tab
+- will show how to get to to `Key Bindings` (2nd option on right)
+- Can install the settings and keyboard shortcuts of other editors (such as Vim, Sublim, Atom, Emacs, and others); we can search for various editors
+- attendees can install later.  best to not install now. 
 
 
-## Learn / Interactive Playground
+### Learn / Interactive Playground
 - <kbd> shift ⌘ P </kbd> 
 - type:  "open settings"
   1.  User settings
