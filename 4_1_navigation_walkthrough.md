@@ -32,12 +32,12 @@ Type <kbd> ⌘ P</kbd> (for windows, <kbd> ⌘ P</kbd>) to navigate to `blog/pos
 ### Find and replace
 Let's pretend the website owner wants us to change the headline on this page from "New post" to "Submit a blog post". Typing <kbd> ⇧⌘H</kbd> (shift + command + H) will open a Find and Replace across all files to change the text. If you wanted to do run Find and Replace across only one file, you could type <kbd> option ⌘ F </kbd> (option + command + F).
 
-**single file:**  <kbd> option ⌘ F </kbd>
+**single file:**  <kbd> option ⌘ F </kbd><br/>
 **all files:** <kbd> ⇧⌘H </kbd>
 
 In **windows**, these commands are: 
 
-**single file:** <kbd>Ctrl+Option+F </kbd>
+**single file:** <kbd>Ctrl+Option+F </kbd><br/>
 **all files:**<kbd>Ctrl+Shift+H </kbd>
 
 ### Creating a new file or folder
