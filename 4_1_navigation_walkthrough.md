@@ -38,4 +38,4 @@ You can see a dropdown with the option to create a new file or folder by right c
 <img src="/images/vsc_django_girls_add_new_file.png" width="500px" />
 
 ### Navigating between multiple open files
-If you have a lot of files open, you can use <kbd> ⌘ ⇧ } </kbd> or <kbd> ⌘ ⇧ { </kbd> to go back and forth between them.
+If you have a lot of files open, you can use <kbd> ⌘1 </kbd> <kbd> ⌘2 </kbd> <kbd> ⌘3 </kbd> etc to go back and forth between them.
