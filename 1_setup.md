@@ -75,7 +75,7 @@ There are a few ways to get to `Settings` for editor, extensions, workspace, and
 2.  This shortcut:  <kbd> Command+, </kbd>
 3.  <kbd> `⇧⌘P` </kbd> and type "settings"
 
-### Settings & Key Bindings (explore on your own)
+### Settings & Key Bindings 
 - on `Welcome` tab
 - will show how to get to to `Key Bindings` (2nd option on right)
 - Can install the settings and keyboard shortcuts of other editors (such as Vim, Sublim, Atom, Emacs, and others); we can search for various editors
