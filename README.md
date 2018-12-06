@@ -35,8 +35,9 @@
 
 ## Navigating the codebase
 Let's practice using some VSC shortcuts and features!
-- Practice navigating a simple [Django blog](4_1_navigation_walkthrough.md)
+- We'll work with this small [Django blog](https://github.com/antoniablair/my-first-blog)
   - use `git clone` or `Download manually` (GH account *not required* to download the repo)
+- How to [navigate this codebase](4_1_navigation_walkthrough.md)
 - To learn more about Django, you can build this blog at home with: [Django Girls tutorial](https://tutorial.djangogirls.org/en/)
 
 ## Linting and Formatting
@@ -64,7 +65,7 @@ Let's practice using some VSC shortcuts and features!
 - Can search for "github pull request", click on `install` and then `reload` to activate it
 
 ## Terminal and Debugging with VSC
-- Watch 4:47 - 9:31 of [Nina Zakharenko's helpful video](https://www.youtube.com/watch?v=xQj3s3wIYDY), which explains how the terminal and debug features work
+- Watch 4:06 - 9:31 of [Nina Zakharenko's helpful video](https://www.youtube.com/watch?v=xQj3s3wIYDY), which explains how the terminal and debug features work
 
 ## Further Exploration (on your own)
 - Working with virtual environment in VSC
