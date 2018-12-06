@@ -29,7 +29,7 @@
   - Python  
   - Shell Command
 
-### Important keyboard shortcuts
+## Important keyboard shortcuts
 - [2_1_vsc_shortcuts](2_1_vsc_editor_shortcuts.md)
 - [2_2_editor_shortcuts](2_2_editor_shortcuts.md)
 
