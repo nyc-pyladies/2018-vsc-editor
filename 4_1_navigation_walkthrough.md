@@ -30,7 +30,7 @@ Here we'll see that submitting the form will either render the `post_detail` tem
 Type <kbd> ⌘ P</kbd> to navigate to `blog/post_edit.html`. Open up that template.
 
 ### Find and replace
-Let's pretend the website owner wants us to change the headline on this page from "New post" to "Submit a blog post". Typing <kbd> ⌥ ⌘ F</kbd> (option + command + F) will open a Find and Replace option to change the text. If you wanted to do run Find and Replace across *all* files in the project, you could type <kbd> ⌥ ⌘ H </kbd> (option + command + H)
+Let's pretend the website owner wants us to change the headline on this page from "New post" to "Submit a blog post". Typing <kbd> ⌥ ⌘ F</kbd> (option + command + F) will open a Find and Replace option to change the text. If you wanted to do run Find and Replace across *all* files in the project, you could type <kbd> ⇧⌘H  </kbd> (shift + command + H)
 
 ### Creating a new file or folder
 You can see a dropdown with the option to create a new file or folder by right clicking on the folder you want to add it to in the side panel. 
