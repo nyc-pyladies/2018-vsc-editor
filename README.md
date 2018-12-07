@@ -82,7 +82,7 @@ Let's practice using some VSC shortcuts and features!
 </br>
 
 ## Explore on your own
-- watch these 2 videos:
+Watch these 2 videos:  
   - [PyLadies NYC - Getting Started with VS Code for Python](https://www.youtube.com/watch?v=xQj3s3wIYDY) by Nina Zakharenko @Microsoft
   - [Get Productive with Python in Visual Studio Code](https://www.youtube.com/watch?v=6YLMWU-5H9o) by Dan Taylor @Microsoft
 
