@@ -39,7 +39,7 @@
   - Python  
   - Shell Command
 
-## Gettings some code to work with
+## Getting some code to work with
 Let's practice using some VSC shortcuts and features!
 - We'll work with this small [Django blog](https://github.com/antoniablair/my-first-blog)
   - use `git clone` or `Download manually` (GH account *not required* to download the repo)
