@@ -69,6 +69,11 @@ Let's practice using some VSC shortcuts and features!
 </br>
 
 ---
+
+## Fun / and for stress reduction
+- Stressed after coding for hours? Need a break? Perhaps an inspiration? Something to calm your nerves after almost pushing that fatal git commit? It's Kitty Time! =(＾● ⋏ ●＾)= ෆ
+- [Kitty extension on VSC](https://marketplace.visualstudio.com/items?itemName=QzSG.kitty-time)
+
 ## Explore on your own
 - watch these 2 videos:
   - [PyLadies NYC - Getting Started with VS Code for Python](https://www.youtube.com/watch?v=xQj3s3wIYDY) by Nina Zakharenko @Microsoft
