@@ -4,6 +4,7 @@
  <img src="images/pyladies.png"  width="15%" height="15%" /> 
   <img src="images/pyladies.jpeg" width="15%" height="15%" />
   <img src="images/vsc_logo.jpg"  width="25%" height="25%" />
+ <img src="images/editor_choice.png" align="center" width="40%" height="40%"  >  
 </p>
 
 
@@ -27,10 +28,6 @@
 - Use [**this document**](https://docs.google.com/document/d/16tg-OMYO6NOFSFH7RH1KqNz2aS40mGDzOPA_yfBtsas/edit?usp=sharing) to let us know when you are finished with installs / exercises.
 
 ## Intro & Installing VSC 
-
-<br>
-<img src="images/editor_choice.png" align="center" width="50%" height="50%"  >   
-</br>
 
 - [0_intro_install](0_intro_install.md)
 
