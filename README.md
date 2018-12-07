@@ -16,7 +16,9 @@
 - Introductions 
 - Bathroom, wifi
 - Code of Conduct
-- Tweet about event:  [@NYCPyLadies](https://twitter.com/NYCPyLadies) and also [@Dropbox](https://twitter.com/Dropbox)
+- Tweet about event:  
+  - [@NYCPyLadies](https://twitter.com/NYCPyLadies) and also [@Dropbox](https://twitter.com/Dropbox)
+  - [@pythonvscode](https://twitter.com/pythonvscode) | #VisualStudio | [@code](https://twitter.com/code)
 - Thank you to Dropbox for hosting!
 - [Dan Crosta](https://www.linkedin.com/in/dcrosta/) talks about Dropbox
 
