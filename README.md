@@ -101,5 +101,5 @@ Watch these 2 videos:
 <a href="https://youtu.be/xQj3s3wIYDY?t=246" target="_blank"><img src="/images/vsc_pyladies_video.png" width="30%" /></a>
 
 ### Virtual Environments in VSC
-
+- covered in Dan Taylor's video
 
